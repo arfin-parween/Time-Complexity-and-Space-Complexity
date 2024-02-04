@@ -4,16 +4,16 @@
 This Repository contains Time and space complexity.
 Time and space complexity are terms used in computer science to analyze the efficiency of algorithms:
 
-Time Complexity:
+###Time Complexity:
 
-Definition: It measures the amount of time an algorithm takes to complete as a function of the input size.
-Notation: Typically expressed using big-O notation (e.g., O(n), O(log n)).
+Definition: It measures the amount of time an algorithm takes to complete as a function of the input size.</br>
+Notation: Typically expressed using big-O notation (e.g., O(n), O(log n)).</br>
 Example: An algorithm with O(n) time complexity means its running time grows linearly with the input size. If the input size doubles, the running time will roughly double as well.
 
-Space Complexity:
+###Space Complexity:
 
-Definition: It quantifies the amount of memory space an algorithm uses in relation to the input size.
-Notation: Similar to time complexity, expressed using big-O notation.
+Definition: It quantifies the amount of memory space an algorithm uses in relation to the input size.</br>
+Notation: Similar to time complexity, expressed using big-O notation.</br>
 Example: An algorithm with O(n) space complexity implies that the amount of memory it uses grows linearly with the input size. If the input size increases, the algorithm's memory consumption will increase proportionally.
 
 
