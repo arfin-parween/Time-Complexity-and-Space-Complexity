@@ -9,6 +9,7 @@ Time Complexity:
 Definition: It measures the amount of time an algorithm takes to complete as a function of the input size.
 Notation: Typically expressed using big-O notation (e.g., O(n), O(log n)).
 Example: An algorithm with O(n) time complexity means its running time grows linearly with the input size. If the input size doubles, the running time will roughly double as well.
+
 Space Complexity:
 
 Definition: It quantifies the amount of memory space an algorithm uses in relation to the input size.
